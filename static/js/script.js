@@ -28,7 +28,7 @@ function addJobs(){
           })
             .then(r => r.json())
             .then(function(data){
-              console.log(data);
+              list.innerHTML = '';
               for(var i = 0; i < data.length; i++){
                 list.insertAdjacentHTML('beforeend', todoTemplate(data[i].id, data[i].created_at, data[i].text));
               }       
