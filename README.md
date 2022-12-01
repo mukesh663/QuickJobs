@@ -1,7 +1,6 @@
 <h1 align="center"> QuickJobs - A Job Portal</h1>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
 A simple job portal application for real time update of latest jobs with Twitter API.
 
