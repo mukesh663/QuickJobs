@@ -23,8 +23,8 @@ Finally sign up for a Twitter Developer account, and create an app and store the
 
 2. Query with a job title
 
-<img alt="auth" src="assets/2.png"> </img>
+<img alt="query-results" src="assets/2.png"> </img>
 
 3. Get top results matching the job title
 
-<img alt="tasks" src="assets/3.png"> </img>
+<img alt="all-results" src="assets/3.png"> </img>
